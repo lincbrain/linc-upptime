@@ -76,7 +76,7 @@
     "url": "https://connects.mgh.harvard.edu",
     "icon": "https://icons.duckduckgo.com/ip3/connects.mgh.harvard.edu.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 2595,
     "timeMonth": 2619,
     "timeYear": 2619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-27": 0
+    }
   }
 ]
