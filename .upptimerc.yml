@@ -20,10 +20,10 @@ sites:
     url: https://dashboard.lincbrain.org
     assignees:
       - kabilar
-  - name: Homepage
-    url: https://connects.mgh.harvard.edu
-    assignees:
-      - kabilar
+  # - name: Homepage
+  #   url: https://connects.mgh.harvard.edu
+  #   assignees:
+  #     - kabilar
 
 status-website:
   cname: status.lincbrain.org
