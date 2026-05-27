@@ -6,12 +6,10 @@ sites:
     url: https://lincbrain.org
     assignees:
       - kabilar
-      - aaronkanzer
-  - name: DANDI Hub
-    url: https://hub.dandiarchive.org
+  - name: Gallery
+    url: https://gallery.lincbrain.org
     assignees:
       - kabilar
-      - aaronkanzer
   - name: Documentation
     url: https://docs.lincbrain.org
     assignees:
@@ -20,10 +18,6 @@ sites:
     url: https://dashboard.lincbrain.org
     assignees:
       - kabilar
-  # - name: Homepage
-  #   url: https://connects.mgh.harvard.edu
-  #   assignees:
-  #     - kabilar
 
 status-website:
   cname: status.lincbrain.org
