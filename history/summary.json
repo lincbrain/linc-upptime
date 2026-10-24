@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lincbrain.org.ico",
     "slug": "data-portal",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 451,
-    "timeDay": 109,
-    "timeWeek": 541,
-    "timeMonth": 341,
-    "timeYear": 502,
+    "time": 452,
+    "timeDay": 320,
+    "timeWeek": 562,
+    "timeMonth": 346,
+    "timeYear": 501,
     "dailyMinutesDown": {
       "2026-05-19": 82
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 248,
-    "timeWeek": 583,
-    "timeMonth": 342,
-    "timeYear": 268,
+    "time": 269,
+    "timeDay": 348,
+    "timeWeek": 570,
+    "timeMonth": 344,
+    "timeYear": 269,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
-    "timeDay": 135,
-    "timeWeek": 748,
+    "timeDay": 227,
+    "timeWeek": 716,
     "timeMonth": 361,
     "timeYear": 271,
     "dailyMinutesDown": {}
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 132,
+    "timeDay": 307,
     "timeWeek": 866,
-    "timeMonth": 398,
+    "timeMonth": 401,
     "timeYear": 243,
     "dailyMinutesDown": {}
   }
